@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tvResult">TESTTESTTESTTEST</string>
+    <string name="tvInput">TESTTESTTESTTEST</string>
+
+    <string name="btDelete">Del</string>
+    <string name="btClear">C</string>
+    <string name="btPlusMinus">±</string>
+    <string name="btDivide">/</string>
+    <string name="btMultiply">X</string>
+    <string name="btMinus">-</string>
+    <string name="btPlus">+</string>
+    <string name="btDecimal">.</string>
+    <string name="btEqual">=</string>
+
+    <string name="btZero">0</string>
+    <string name="btOne">1</string>
+    <string name="btTwo">2</string>
+    <string name="btThree">3</string>
+    <string name="btFour">4</string>
+    <string name="btFive">5</string>
+    <string name="btSix">6</string>
+    <string name="btSeven">7</string>
+    <string name="btEight">8</string>
+    <string name="btNine">9</string>
+
+</resources>
